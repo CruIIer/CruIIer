@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CruIIer
-- 👀 I’m interested in technologies, APPLE, GPT
+- 👀 I’m interested in technologies, AI (GPT, Bard)
 - 🌱 I’m currently learning python in Engeto academy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ My plan is to learn as much as I can to achieve remote job
 
 <!---
 CruIIer/CruIIer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
