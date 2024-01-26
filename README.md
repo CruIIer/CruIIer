@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CruIIer
-- 👀 I’m interested in technologies, AI (GPT, Bard)
+- 👀 I’m interested in technologies, AI (GPT, Bard, Copilot..)
 - 🌱 I’m currently learning python in Engeto academy
 - 💞️ My plan is to learn as much as I can to achieve remote job
 
