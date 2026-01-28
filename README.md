@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CruIIer
-- 🌱 I’m currently learning AI throught Elements of AI 
+- 🌱 I’m currently working as an automation specialist & IT support
 - 💞️ My plan is to learn as much as I can to have a future in this tech world
 
 <!---
